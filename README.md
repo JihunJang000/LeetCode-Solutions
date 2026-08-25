@@ -60,14 +60,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/JihunJang000/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0594-longest-harmonious-subsequence](https://github.com/JihunJang000/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/JihunJang000/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0594-longest-harmonious-subsequence](https://github.com/JihunJang000/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 ## Hash Table
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/JihunJang000/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0594-longest-harmonious-subsequence](https://github.com/JihunJang000/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 ## Linked List
 |  |
 | ------- |
@@ -76,4 +79,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/JihunJang000/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+## Sliding Window
+|  |
+| ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/JihunJang000/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
+## Counting
+|  |
+| ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/JihunJang000/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 <!---LeetCode Topics End-->
